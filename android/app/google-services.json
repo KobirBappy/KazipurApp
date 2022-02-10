@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920427344845",
+    "project_id": "kzipureveningbatch",
+    "storage_bucket": "kzipureveningbatch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920427344845:android:94aad18460850f3f370a84",
+        "android_client_info": {
+          "package_name": "com.example.kazipur_evening_batch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920427344845-bbal84ugkecfgcqeah6pfv6qhadlgjj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYnLwjNpuc0G8nrGmpd5CxnROSt4oIkJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920427344845-bbal84ugkecfgcqeah6pfv6qhadlgjj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
